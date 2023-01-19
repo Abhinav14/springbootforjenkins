@@ -27,6 +27,7 @@ public class SpringbootforjenkinsApplication implements CommandLineRunner{
 	@Override
 	public void run(String... args) throws Exception {
 		logger.info("Abhinav | Its for Jenkins testing again=====>>>>>");
+		logger.info("Abhinav | hooked jenkins with github ----->>>>>");
 	}
 
 }
