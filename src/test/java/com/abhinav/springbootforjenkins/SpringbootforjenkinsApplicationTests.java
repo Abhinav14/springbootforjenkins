@@ -14,7 +14,7 @@ class SpringbootforjenkinsApplicationTests {
 	
 	@Test
 	void contextLoads() {
-		logger.info("Test case executing.....");
+		logger.info("Abhinav | Test case executing----->>>>>");
 		assertEquals(true, true);
 	}
 
