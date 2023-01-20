@@ -30,7 +30,7 @@ public class SpringbootforjenkinsApplication implements CommandLineRunner{
 		logger.info("Abhinav | hooked jenkins with github ----->>>>>");
 		logger.info("Abhinav | hooked jenkins with github on 19-01-2023 at 3:48PM IST ----->>>>>");
 		logger.info("Abhinav | hooked jenkins with github on 20-01-2023 at 8:55AM IST ----->>>>>");
-		logger.info("Abhinav | hooked jenkins with github on 20-01-2023 at 22:44PM IST ----->>>>>");
+		logger.info("Abhinav | hooked jenkins with github on 20-01-2023 at 22:44PM IST ----->>>>>>>>");
 	}
 
 }
